@@ -33,5 +33,3 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
-creime_savedmodel/
